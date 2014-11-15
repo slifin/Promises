@@ -10,7 +10,11 @@ the structure of a Promise Object constructor is:
 new Promise(function(approve,reject));
 
 These methods are shorthand for returning a value immediately instead of waiting
+
+
 Promise.resolve()
+
+
 Promise.reject()
 
 
